@@ -189,5 +189,12 @@ h3 {
         align-items: center;
         justify-content: space-between;
     }
+    .nav-center h4 {
+        margin-bottom: 0;
+        color: var(--clr-primary-5);
+    }
+    .nav-links {
+        display: flex;
+    }
     
   
